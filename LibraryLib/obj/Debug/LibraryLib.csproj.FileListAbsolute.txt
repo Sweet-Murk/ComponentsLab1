@@ -1,0 +1,6 @@
+C:\Users\dima\Desktop\Folders\university\3 курс 2 семестр\компоненты софта\LibraryLib\LibraryLib\bin\Debug\LibraryLib.dll
+C:\Users\dima\Desktop\Folders\university\3 курс 2 семестр\компоненты софта\LibraryLib\LibraryLib\bin\Debug\LibraryLib.pdb
+C:\Users\dima\Desktop\Folders\university\3 курс 2 семестр\компоненты софта\LibraryLib\LibraryLib\obj\Debug\LibraryLib.csprojAssemblyReference.cache
+C:\Users\dima\Desktop\Folders\university\3 курс 2 семестр\компоненты софта\LibraryLib\LibraryLib\obj\Debug\LibraryLib.csproj.CoreCompileInputs.cache
+C:\Users\dima\Desktop\Folders\university\3 курс 2 семестр\компоненты софта\LibraryLib\LibraryLib\obj\Debug\LibraryLib.dll
+C:\Users\dima\Desktop\Folders\university\3 курс 2 семестр\компоненты софта\LibraryLib\LibraryLib\obj\Debug\LibraryLib.pdb
